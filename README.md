@@ -1,6 +1,6 @@
 # Fostercare's Attack Bar
 
-Accurate mainhand and ranged weapon swing timer addon for old vanilla World of Warcraft 1.12.
+Mainhand and ranged weapon swing timer Add-On for old Vanilla World of Warcraft 1.12
 
 >Originally created by Udokus, cleaned by [Road-block](https://github.com/Road-block/AttackBar), then modified by Threewords. Finally cleaned up by Fostercare under strict supervision by his friend Biobio.
 
