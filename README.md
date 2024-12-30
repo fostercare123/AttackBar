@@ -6,7 +6,7 @@ Accurate mainhand and ranged weapon swing timer addon for old vanilla World of W
 
 ## Usage
 
-- `/ab` - lists all commands.
+- `/ab` - Lists all commands.
 - `/ab unlock` - Unlocks the anchor.
 - `/ab lock` - Locks the anchor.
 - `/ab melee` - Toggle the melee bar.
