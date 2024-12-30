@@ -2,7 +2,7 @@
 
 Accurate mainhand and ranged weapon swing timer addon for old vanilla World of Warcraft 1.12.
 
->Originally created by Udokus, cleaned by [Road-blok](https://github.com/Road-block/AttackBar), then modified by Threewords and finally by Fostercare under strict supervision by his friend Biobio.
+>Originally created by Udokus, cleaned by [Road-block](https://github.com/Road-block/AttackBar), then modified by Threewords and finally by Fostercare under strict supervision by his friend Biobio.
 
 ## Usage
 
