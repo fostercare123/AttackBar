@@ -1,0 +1,5 @@
+## Version: 6.0
+## Title: Fostercare's Attack Bar
+## Notes: Player swing timer for main hand and ranged weapons, updated 2024-12-30.
+## SavedVariables: AB
+AttackBar.xml
