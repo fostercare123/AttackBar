@@ -6,9 +6,9 @@ Accurate mainhand and ranged weapon swing timer addon for old vanilla World of W
 
 ## Usage
 
-- `/ab` - list of commands.
-- `/unlock` - Unlocks the anchor.
-- `/lock` - Locks the anchor.
-- `/melee` - Toggle the melee bar.
-- `/range` - Toggle the ranged bar.
-- `/reset` - Resets addon. Wait 5 seconds before attacking.
+- `/ab` - lists all commands.
+- `/ab unlock` - Unlocks the anchor.
+- `/ab lock` - Locks the anchor.
+- `/ab melee` - Toggle the melee bar.
+- `/ab range` - Toggle the ranged bar.
+- `/ab reset` - Resets addon. Wait 5 seconds before attacking.
